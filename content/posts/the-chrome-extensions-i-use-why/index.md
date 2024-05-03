@@ -125,7 +125,7 @@ I've not used this extension that much yet but from the name, you can see its an
 
 > Automatically find and apply coupon codes when you shop online!
 
-Honey is the number 1 extension to save you money. It supports thousands of sites and it gives ou coupons when checking out.
+Honey is the number 1 extension to save you money. It supports thousands of sites and it gives you coupons when checking out.
 
 ## [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 
